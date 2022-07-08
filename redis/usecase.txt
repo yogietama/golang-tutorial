@@ -1,0 +1,5 @@
+1. cache layer before hitting databases
+2. Rate limiter
+3. Distributed locking
+4. Pub Sub Messaging
+5. Temporary storage before Set Persistence to databases
